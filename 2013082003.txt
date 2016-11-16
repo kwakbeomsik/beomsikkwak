@@ -1,0 +1,33 @@
+Mon Nov 14 20:04:54 2016 +0900 Lab 11 upload
+Mon Nov 14 19:13:18 2016 +0900 Modified sound pdf
+Mon Nov 14 16:58:08 2016 +0900 Lab10 - Scroll and Tiling Upload
+Wed Nov 9 18:32:11 2016 +0900 brick image added
+Wed Nov 2 10:08:08 2016 +0900 Update Drill #7
+Mon Oct 31 19:49:18 2016 +0900 Drill #7 upload
+Mon Oct 31 19:12:41 2016 +0900 Lab 09 upload
+Wed Oct 26 18:07:02 2016 +0900 Lab 08 upload
+Mon Oct 24 07:03:59 2016 +0900 Upload Lab 7 character controller
+Wed Oct 12 21:16:40 2016 +0900 2차발표 가이드 제공
+Wed Oct 12 19:07:04 2016 +0900 Lab 06 upload
+Mon Oct 10 20:30:08 2016 +0900 Lab05 upload
+Mon Oct 10 20:12:55 2016 +0900 Lec05 re upload
+Sat Oct 8 11:53:58 2016 +0900 add ball image for drill
+Fri Oct 7 12:28:16 2016 +0900 LEC04_게임오브젝트.pdf 일부 수정
+Sun Oct 2 11:51:39 2016 +0900 수업일정 업데이트(해외 출장 반영)
+Fri Sep 30 08:21:25 2016 +0900 Lab #4 Upload
+Wed Sep 28 10:47:22 2016 +0900 Lab03 uploaded
+Wed Sep 14 14:32:51 2016 +0900 오타 수정
+Wed Sep 14 13:42:30 2016 +0900 1st project presentation guide
+Wed Sep 14 13:34:10 2016 +0900 수업일정 update
+Wed Sep 14 12:54:41 2016 +0900 수업일정
+Wed Sep 14 12:17:22 2016 +0900 Lab #1, #2 Upload
+Wed Sep 7 18:40:14 2016 +0900 Updatt Lecture 01
+Wed Sep 7 18:32:39 2016 +0900 SDK Upload
+Fri Sep 2 20:56:16 2016 +0900 Merge branch 'master' of https://github.com/game-lecture/2016-2DGP
+Fri Sep 2 13:25:14 2016 +0900 Python 3.5.2 install update
+Fri Sep 2 10:57:38 2016 +0900 test change
+Wed Aug 31 18:55:18 2016 +0900 Python version update
+Mon Aug 29 21:30:07 2016 +0900 Lecture Slides from 2015 Note that slides will be updated regularly
+Mon Aug 29 21:24:39 2016 +0900 Upload course introduction
+Mon Aug 29 21:22:47 2016 +0900 python gitignore
+Mon Aug 29 21:16:51 2016 +0900 Create README.md
